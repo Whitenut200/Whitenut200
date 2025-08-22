@@ -2,10 +2,7 @@
 
 # 👋 Hi, I'm **Whitenut200**  
 **Data Analyst & Visualization Engineer**
-
-</div>
-
-## 🌐 Links
+<br> <!-- 한 줄 공백 -->
 <p align="center">
   <a href="https://whitenut200.github.io/">
     <img src="https://img.shields.io/badge/GitHub_Blog-181717?logo=github&logoColor=white" />
@@ -17,7 +14,8 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" />
   </a>
 </p>
-
+</div>
+<br> <!-- 한 줄 공백 -->
 ## About Me
 - 현재 **데이터 분석 · 데이터 시각화 엔지니어**로 재직 중  
 - 실무에서 **Tableau, SQL, Python**을 활용하여 데이터 기반 의사결정을 지원  
@@ -26,8 +24,8 @@
 - 새로운 도전을 즐기며, 필요하다면 **처음 접하는 주제라도 과감히 시도하고 결과물을 만들어내는 과정**에 큰 흥미를 느낌  
   (예: 서울시 지하철 승·하차 인원 예측 프로젝트)
   
+<br> <!-- 한 줄 공백 -->
 ## 🛠️ Tech Stack
-### Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
@@ -37,8 +35,9 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" />
 </p>
-
-<hr style="border:0; border-top:1px solid #ddd; margin:20px 0;">
+<br> <!-- 한 줄 공백 -->
+<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin:10px 0;">
+<br> <!-- 한 줄 공백 -->
 
 ## Career & Education
 - **덕성여자대학교**  
@@ -53,12 +52,14 @@
 
 ## Certifications
 - **SQLD** (SQL 개발자)  
-- **ADsP** (데이터분석 준전문가)  
-
-<hr style="border:0; border-top:1px solid #ddd; margin:20px 0;">
-
+- **ADsP** (데이터분석 준전문가)
+  
+<br> <!-- 한 줄 공백 -->
+<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin:10px 0;">
+<br> <!-- 한 줄 공백 -->
+  
 ## Featured Projects
-<table>
+<table cellspacing="20">
   <tr>
     <td width="50%">
       <h3>서울시 지하철 승·하차 인원 예측 대시보드</h3>
@@ -99,8 +100,10 @@
 
 </details>
 
-<hr style="border:0; border-top:1px solid #ddd; margin:20px 0;">
-
+<br> <!-- 한 줄 공백 -->
+<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin:10px 0;">
+<br> <!-- 한 줄 공백 -->
+  
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whitenut200&show_icons=true&theme=tokyonight" height="165" />

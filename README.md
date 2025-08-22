@@ -4,12 +4,9 @@
 **Data Analyst & Visualization Engineer**
 
 <p align="center">
-  <a href="https://whitenut200.github.io/"><img src="https://img.shields.io/badge/GitHub_Blog-181717?logo=github&logoColor=white" />
-  </a>
-  <a href="https://public.tableau.com/app/profile/yu.siyeon/vizzes"><img src="https://img.shields.io/badge/Tableau-Public-E97627?logo=tableau&logoColor=white" />
-  </a>
-  <a href="mailto:dtbldus34@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://whitenut200.github.io/"><img src="https://img.shields.io/badge/GitHub_Blog-181717?logo=github&logoColor=white" /></a>
+  <a href="https://public.tableau.com/app/profile/yu.siyeon/vizzes"><img src="https://img.shields.io/badge/Tableau-Public-E97627?logo=tableau&logoColor=white" /></a>
+  <a href="mailto:dtbldus34@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" /></a>
 </p>
 </div>
 
@@ -58,12 +55,9 @@
   <h3>서울시 지하철 승·하차 인원 예측 대시보드</h3>
   <p>AWS 기반 자동화 데이터 파이프라인 + LightGBM/XGBoost 예측 모델링 + Tableau 시각화</p>
   <p>
-    <a href="https://github.com/whitenut200/subway-dashboard"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white" />
-    </a>
-    <a href="https://whitenut200.github.io/prodject/subway/%EC%A7%80%ED%95%98%EC%B2%A0-%EC%8A%B9%ED%95%98%EC%B0%A8%EC%88%98-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C%EC%84%A4%EA%B3%84/"><img src="https://img.shields.io/badge/Blog-Post-0A66C2?logo=githubpages&logoColor=white" />
-    </a>
-    <a href="https://public.tableau.com/views/_17548941338250/sheet0"><img src="https://img.shields.io/badge/Tableau-Dashboard-E97627?logo=tableau&logoColor=white" />
-    </a>
+    <a href="https://github.com/whitenut200/subway-dashboard"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white" /></a>
+    <a href="https://whitenut200.github.io/prodject/subway/%EC%A7%80%ED%95%98%EC%B2%A0-%EC%8A%B9%ED%95%98%EC%B0%A8%EC%88%98-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C%EC%84%A4%EA%B3%84/"><img src="https://img.shields.io/badge/Blog-Post-0A66C2?logo=githubpages&logoColor=white" /></a>
+    <a href="https://public.tableau.com/views/_17548941338250/sheet0"><img src="https://img.shields.io/badge/Tableau-Dashboard-E97627?logo=tableau&logoColor=white" /></a>
   </p>
 </div>
 
@@ -71,10 +65,8 @@
   <h3>etailrocket AB test Dashboard</h3>
   <p>Retailrocket 데이터 + SQL 지표 산출 + 파이썬 가설검정(AB test) + Tableau 시각화</p>
   <p>
-    <a href="https://github.com/whitenut200/hr-dashboard"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white" />
-    </a>
-    <a href="https://public.tableau.com/app/profile/whitenut200"><img src="https://img.shields.io/badge/Tableau-View-E97627?logo=tableau&logoColor=white" />
-    </a>
+    <a href="https://github.com/whitenut200/hr-dashboard"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white" /></a>
+    <a href="https://public.tableau.com/app/profile/whitenut200"><img src="https://img.shields.io/badge/Tableau-View-E97627?logo=tableau&logoColor=white" /></a>
   </p>
 </div>
 

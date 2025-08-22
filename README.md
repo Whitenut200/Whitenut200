@@ -2,7 +2,9 @@
 
 # 👋 Hi, I'm **Whitenut200**  
 **Data Analyst & Visualization Engineer**
+
 <br> <!-- 한 줄 공백 -->
+
 <p align="center">
   <a href="https://whitenut200.github.io/">
     <img src="https://img.shields.io/badge/GitHub_Blog-181717?logo=github&logoColor=white" />
@@ -15,7 +17,9 @@
   </a>
 </p>
 </div>
+
 <br> <!-- 한 줄 공백 -->
+
 ## About Me
 - 현재 **데이터 분석 · 데이터 시각화 엔지니어**로 재직 중  
 - 실무에서 **Tableau, SQL, Python**을 활용하여 데이터 기반 의사결정을 지원  
@@ -23,8 +27,7 @@
 - 단순 시각화가 아닌, **핵심 가치를 드러내는 스토리텔링 시각화**를 중요하게 생각  
 - 새로운 도전을 즐기며, 필요하다면 **처음 접하는 주제라도 과감히 시도하고 결과물을 만들어내는 과정**에 큰 흥미를 느낌  
   (예: 서울시 지하철 승·하차 인원 예측 프로젝트)
-  
-<br> <!-- 한 줄 공백 -->
+
 ## 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -35,8 +38,11 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" />
 </p>
+
 <br> <!-- 한 줄 공백 -->
+
 <div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin:10px 0;">
+  
 <br> <!-- 한 줄 공백 -->
 
 ## Career & Education
@@ -55,7 +61,9 @@
 - **ADsP** (데이터분석 준전문가)
   
 <br> <!-- 한 줄 공백 -->
+
 <div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin:10px 0;">
+  
 <br> <!-- 한 줄 공백 -->
   
 ## Featured Projects
@@ -101,7 +109,9 @@
 </details>
 
 <br> <!-- 한 줄 공백 -->
+
 <div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin:10px 0;">
+  
 <br> <!-- 한 줄 공백 -->
   
 ## 📈 GitHub Stats

@@ -13,29 +13,36 @@
 <br> <!-- 한 줄 공백 -->
 
 ## About Me
-- 현재 **데이터 분석 · 데이터 시각화 엔지니어**로 재직 중  
-- 실무에서 **Tableau, SQL, Python**을 활용하여 데이터 기반 의사결정을 지원  
-- 다양한 주제에서 여러 분석 기법을 적용해 **의미 있는 인사이트를 전달하는 대시보드**를 만드는 것을 즐김  
-- 단순 시각화가 아닌, **핵심 가치를 드러내는 스토리텔링 시각화**를 중요하게 생각  
-- 새로운 도전을 즐기며, 필요하다면 **처음 접하는 주제라도 과감히 시도하고 결과물을 만들어내는 과정**에 큰 흥미를 느낌  
-- **🛠️ Tech Stack**
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" />
-  </p>
+
+현재 **데이터 분석 · 데이터 시각화 엔지니어**로 일하고 있습니다.  
+실무에서는 주로 **Tableau, SQL, Python**을 활용해 데이터 기반 의사결정을 지원하고 있습니다.  
+
+특히 **데이터 시각화**에 관심이 많아 여러 대시보드 제작에 참여했습니다. 
+디자인뿐 아니라, **데이터 스토리텔링과 의미 있는 인사이트를 보여주는 시각화**를 만들고자 노력합니다.  
+
+또한 새로운 도전을 즐기는 편이라, 처음 접하는 주제라도 끝까지 결과물을 만들어내는 과정에서 큰 보람를 느낍니다.
+
+## 🛠️ Tech Stack
+**Programming & Data Processing**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) (★★★☆☆)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) (★★★☆☆)  
+&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+
+**Visualization**  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) (★★★★☆)  
+
+**Cloud & Infrastructure**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) (★★☆☆☆)  
+
+**Collaboration**  
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) (★★★☆☆)  
+
 
 <br>
-
 <div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin:10px 0;">
 
-## Career & Education
-- **덕성여자대학교**  
-  - 전공: 수학과  
-  - 복수전공: 정보통계학과  
-
+## Career
 - **코데이터 솔루션**  
   - *2025.01 ~ 2025.04* : Tableau 엔지니어 인턴  
 
@@ -70,22 +77,10 @@
   </p>
 </div>
 
-<details>
-  <summary>더 많은 프로젝트 보기</summary>
+## 더 많은 프로젝트 보기
 - 슈퍼스토어 매출 및 고객 대시보드  
 - IMDB 영화 데이터 대시보드
 - 여러 주제의 Makeovermonday 데이터 대시보드
 </details>
-
-<br> <!-- 한 줄 공백 -->
-<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin:10px 0;">
-
-  
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whitenut200&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitenut200&layout=compact&theme=tokyonight" height="165" />
-</p>
-
 ---
 

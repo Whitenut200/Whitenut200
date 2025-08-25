@@ -24,9 +24,10 @@
 
 ## 🛠️ Tech Stack
 **Programming & Data Processing**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) (★★★☆☆)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) (★★★☆☆)
+- ![pandas](https://img.shields.io/badge/pandas-4479A1?style=flat&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/numpy-4479A1?style=flat&logo=numpy&logoColor=white) ![sqlalchemy](https://img.shields.io/badge/sqlalchemy-4479A1?style=flat&logo=sqlalchemy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) (★★★☆☆)  
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 **Visualization**  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) (★★★★☆)  

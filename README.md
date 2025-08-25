@@ -23,20 +23,28 @@
 또한 새로운 도전을 즐기는 편이라, 처음 접하는 주제라도 끝까지 결과물을 만들어내는 과정에서 큰 보람를 느낍니다.
 
 ## 🛠️ Tech Stack
+
 **Programming & Data Processing**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) (★★★☆☆)
-- ![pandas](https://img.shields.io/badge/pandas-4479A1?style=flat&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/numpy-4479A1?style=flat&logo=numpy&logoColor=white) ![sqlalchemy](https://img.shields.io/badge/sqlalchemy-4479A1?style=flat&logo=sqlalchemy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) (★★★☆☆)  
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/> (★★★☆☆)  
+&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="20"/>  
+&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="20"/>  
+&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/SQLAlchemy-d71f00?style=flat&logo=sqlalchemy&logoColor=white" height="20"/>  
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="22"/> (★★★☆☆)  
+&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="20"/>  
+&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="20"/>  
 
 **Visualization**  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) (★★★★☆)  
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="22"/> (★★★★☆)  
 
 **Cloud & Infrastructure**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) (★★☆☆☆)  
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="22"/> (★★☆☆☆)  
 
 **Collaboration**  
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) (★★★☆☆)  
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" height="22"/> (★★★☆☆)  
+
+</div>
+
 
 
 <br>

@@ -75,8 +75,8 @@
   <h3>etailrocket AB test Dashboard</h3>
   <p>Retailrocket 데이터 + SQL 지표 산출 + 파이썬 가설검정(AB test) + Tableau 시각화</p>
   <p>
-    <a href="https://github.com/whitenut200/hr-dashboard"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white" /></a>
-    <a href="https://public.tableau.com/app/profile/whitenut200"><img src="https://img.shields.io/badge/Tableau-View-E97627?logo=tableau&logoColor=white" /></a>
+    <a href="https://whitenut200.github.io/prodject/retail%20rocket/RetailRocketABtest-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%9C%EC%9A%94"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white" /></a>
+    <a href="https://public.tableau.com/app/profile/yu.siyeon/viz/ABtestwithRetailRocketdata/CVR"><img src="https://img.shields.io/badge/Tableau-View-E97627?logo=tableau&logoColor=white" /></a>
   </p>
 </div>
 

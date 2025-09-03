@@ -65,14 +65,14 @@
   <h3>서울시 지하철 승·하차 인원 예측 대시보드</h3>
   <p>AWS 기반 자동화 데이터 파이프라인 + LightGBM/XGBoost 예측 모델링 + Tableau 시각화</p>
   <p>
-    <a href="https://github.com/whitenut200/subway-dashboard"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white" /></a>
+    <a href="https://github.com/Whitenut200/Subway-Ridership-Prediction-Analysis"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white" /></a>
     <a href="https://whitenut200.github.io/prodject/subway/%EC%A7%80%ED%95%98%EC%B2%A0-%EC%8A%B9%ED%95%98%EC%B0%A8%EC%88%98-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C%EC%84%A4%EA%B3%84/"><img src="https://img.shields.io/badge/Blog-Post-0A66C2?logo=githubpages&logoColor=white" /></a>
     <a href="https://public.tableau.com/views/_17548941338250/sheet0"><img src="https://img.shields.io/badge/Tableau-Dashboard-E97627?logo=tableau&logoColor=white" /></a>
   </p>
 </div>
 
 <div style="display:inline-block; width:45%; margin:10px; vertical-align:top; border:1px solid #ddd; border-radius:8px; padding:15px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
-  <h3>etailrocket AB test Dashboard</h3>
+  <h3>Retailrocket AB test 대시보드</h3>
   <p>Retailrocket 데이터 + SQL 지표 산출 + 파이썬 가설검정(AB test) + Tableau 시각화</p>
   <p>
    <a href="https://github.com/Whitenut200/Retail-Rocket-ecommerce-ABtest"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white" /></a>

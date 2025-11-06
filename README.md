@@ -86,7 +86,7 @@
   <p>네이버 리뷰 크롤링 + 텍스트 분석 (TF-IDF & 감성분석)  + Tableau 시각화 + 마케터 협업(인사이트 도출 및 마케팅 기획)</p>
   <p>
    <a href="https://github.com/Whitenut200/Comparative-Review-Analysis-of-Competing-Stores"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white" /></a>
-    <a href="https://whitenut200.github.io/prodject/retail%20rocket/RetailRocketABtest-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%9C%EC%9A%94/"><img src="https://img.shields.io/badge/Blog-Post-0A66C2?logo=githubpages&logoColor=white" /></a>
+    <a href="https://whitenut200.github.io/project/review/%EA%B2%BD%EC%9F%81%EC%82%AC-%EB%A6%AC%EB%B7%B0%EB%B6%84%EC%84%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%9C%EC%9A%94/"><img src="https://img.shields.io/badge/Blog-Post-0A66C2?logo=githubpages&logoColor=white" /></a>
     <a href="https://public.tableau.com/views/_17580925793250/sheet0?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"><img src="https://img.shields.io/badge/Tableau-Dashboard-E97627?logo=tableau&logoColor=white" /></a>
   </p>
 </div>

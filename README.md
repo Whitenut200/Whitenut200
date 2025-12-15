@@ -62,7 +62,16 @@
   
 ## Featured Projects
 <div style="display:inline-block; width:45%; margin:10px; vertical-align:top; border:1px solid #ddd; border-radius:8px; padding:15px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
-  <h3>서울시 지하철 승·하차 인원 예측 대시보드</h3>
+  <h3>RFM 기반 고객 세그먼트 분석 및 고객 이탈 분석을 통한 CRM 전략 수립 프로젝트 </h3>
+  <p>고객 세그먼트 분석(RFM) + 코호트분석 + 고객 이탈 분석 + Tableau 시각화 + 문제 정의 + 가설 검정</p>
+  <p>
+   <a href="https://github.com/Whitenut200/Customer_Segment_Analysis"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white" /></a>
+    <a href="https://whitenut200.github.io/project/rfm/%EA%B3%A0%EA%B0%9D%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%9C%EC%9A%94/"><img src="https://img.shields.io/badge/Blog-Post-0A66C2?logo=githubpages&logoColor=white" /></a>
+    <a href="https://public.tableau.com/views/_17641197633720/Overview?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"><img src="https://img.shields.io/badge/Tableau-Dashboard-E97627?logo=tableau&logoColor=white" /></a>
+  </p>
+</div>
+<div style="display:inline-block; width:45%; margin:10px; vertical-align:top; border:1px solid #ddd; border-radius:8px; padding:15px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+  <h3>AWS 기반 ML-ETL 자동화 파이프라인 구축 및 지하철 승하차 예측 대시보드 개발</h3>
   <p>AWS 기반 자동화 데이터 파이프라인 + LightGBM/XGBoost 예측 모델링 + Tableau 시각화</p>
   <p>
     <a href="https://github.com/Whitenut200/Subway-Ridership-Prediction-Analysis"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white" /></a>
@@ -72,7 +81,7 @@
 </div>
 
 <div style="display:inline-block; width:45%; margin:10px; vertical-align:top; border:1px solid #ddd; border-radius:8px; padding:15px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
-  <h3>Retailrocket AB test 대시보드</h3>
+  <h3>통계적 A/B 테스트 기반 구매 전환율 분석 및 사용자 행동 분석 프로젝트</h3>
   <p>Retailrocket 데이터 + SQL 지표 산출 + 파이썬 가설검정(AB test) + Tableau 시각화</p>
   <p>
    <a href="https://github.com/Whitenut200/Retail-Rocket-ecommerce-ABtest"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white" /></a>
@@ -82,7 +91,7 @@
 </div>
 
 <div style="display:inline-block; width:45%; margin:10px; vertical-align:top; border:1px solid #ddd; border-radius:8px; padding:15px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
-  <h3>주 가게 vs 경쟁 가게 네이버 지도 리뷰 비교 분석</h3>
+  <h3>텍스트 마이닝 기반 경쟁 가게 리뷰 분석 및 마케팅 전략 수립 프로젝트</h3>
   <p>네이버 리뷰 크롤링 + 텍스트 분석 (TF-IDF & 감성분석)  + Tableau 시각화 + 마케터 협업(인사이트 도출 및 마케팅 기획)</p>
   <p>
    <a href="https://github.com/Whitenut200/Comparative-Review-Analysis-of-Competing-Stores"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white" /></a>
